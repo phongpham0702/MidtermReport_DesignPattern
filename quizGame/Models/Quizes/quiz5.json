@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "text": "Ai là thần tình yêu và tình dục trong Thần thoại Bắc Âu?",
+    "choices": [
+      "Heimdall",
+      "Thor",
+      "Loki",
+      "Freyja"
+    ],
+    "correctAnswerIndex": 3
+  },
+
+  {
+    "id": 2,
+    "text": "Ai là vua của các thần trong Thần thoại Bắc Âu?",
+    "choices": [
+      "Odin",
+      "Zeus",
+      "Loki",
+      "Freyja"
+    ],
+    "correctAnswerIndex": 0
+  },
+
+  {
+    "id": 3,
+    "text": "Ai là thần sấm sét trong Thần thoại Bắc Âu?",
+    "choices": [
+      "Odin",
+      "Thor",
+      "Zues",
+      "Artemis"
+    ],
+    "correctAnswerIndex": 1
+  },
+
+  {
+    "id": 4,
+    "text": "Ai là thần chiến tranh trong Thần thoại Bắc Âu?",
+    "choices": [
+      "Apollo",
+      "Ares",
+      "Kartos",
+      "Týr"
+    ],
+    "correctAnswerIndex": 3
+  },
+
+  {
+    "id": 5,
+    "text": "Ai là thần mặt trời trong Thần thoại Bắc Âu?",
+    "choices": [
+      "Hermes",
+      "Thor",
+      "Baldr",
+      "Apollo"
+    ],
+    "correctAnswerIndex": 2
+  },
+
+  {
+    "id": 6,
+    "text": "Ai là thần giáo dục và tri thức trong Thần thoại Bắc Âu?",
+    "choices": [
+      "Odin",
+      "Athena",
+      "Loki",
+      "Mimir"
+    ],
+    "correctAnswerIndex": 3
+  },
+
+  {
+    "id": 7,
+    "text": "Ai là thần thủ công và nghệ thuật trong Thần thoại Bắc Âu?",
+    "choices": [
+      "Dionysus",
+      "Heimdall",
+      "Loki",
+      "Hephaestus"
+    ],
+    "correctAnswerIndex": 3
+  },
+
+  {
+    "id": 8,
+    "text": "Ai là thần lựa lọc trong Thần thoại Bắc Âu?",
+    "choices": [
+      "Demeter",
+      "Mani",
+      "Loki",
+      "Hera"
+    ],
+    "correctAnswerIndex": 2
+  },
+
+  {
+    "id": 9,
+    "text": "Ai là thần biển trong Thần thoại Bắc Âu?",
+    "choices": [
+      "Poseidon",
+      "Leviathan",
+      "Heimdall",
+      "Aegir"
+    ],
+    "correctAnswerIndex": 1
+  },
+
+  {
+    "id": 10,
+    "text": "Ai là thần rừng và thiên nhiên trong Thần thoại Bắc Âu?",
+    "choices": [
+      "Vidar",
+      "Forseti",
+      "Frigg",
+      "Yggdrasil"
+    ],
+    "correctAnswerIndex": 0
+  }
+
+]

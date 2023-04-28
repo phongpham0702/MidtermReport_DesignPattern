@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "text": "CPU là viết tắt của từ gì trong tiếng Anh?",
+    "choices": [
+      "Computer Processing Unit",
+      "Central Processing Unit",
+      "Control Processing Unit",
+      "Core Processing Unit"
+    ],
+    "correctAnswerIndex": 1
+  },
+
+  {
+    "id": 2,
+    "text": "RAM là viết tắt của từ gì trong tiếng Anh?",
+    "choices": [
+      "Random Access Memory",
+      "Read Access Memory",
+      "Right Access Memory",
+      "Rapid Access Memory"
+    ],
+    "correctAnswerIndex": 0
+  },
+
+  {
+    "id": 3,
+    "text": "Vi xử lý nào được sử dụng nhiều nhất trong các loại vi xử lý dành cho máy tính cá nhân?",
+    "choices": [
+      "AMD Ryzen",
+      "Intel Core i9",
+      "Apple M1",
+      "Qualcomm Snapdragon"
+    ],
+    "correctAnswerIndex": 1
+  },
+
+  {
+    "id": 4,
+    "text": "Đồ họa nào là phần mềm phổ biến nhất để thiết kế đồ họa và biên tập hình ảnh trên máy tính?",
+    "choices": [
+      "GIMP",
+      "Adobe Photoshop",
+      "CorelDRAW",
+      "Inkscape"
+    ],
+    "correctAnswerIndex": 1
+  },
+
+  {
+    "id": 5,
+    "text": "Một byte bao gồm bao nhiêu bit?",
+    "choices": [
+      "8",
+      "16",
+      "32",
+      "64"
+    ],
+    "correctAnswerIndex": 0
+  },
+
+  {
+    "id": 6,
+    "text": "Đâu là cổng kết nối dùng để kết nối internet thông dụng nhất trên máy tính?",
+    "choices": [
+      "HDMI",
+      "VGA",
+      "USB",
+      "Ethernet"
+    ],
+    "correctAnswerIndex": 3
+  },
+
+  {
+    "id": 7,
+    "text": "Màn hình LCD là từ viết tắt của từ gì trong tiếng Anh?",
+    "choices": [
+      "Liquid Crystal Display",
+      "Light Emitting Diode",
+      "Cathode Ray Tube",
+      "Plasma Display Panel"
+    ],
+    "correctAnswerIndex": 0
+  },
+
+  {
+    "id": 8,
+    "text": "Phím tắt nào được sử dụng để sao chép văn bản trong Microsoft Word?",
+    "choices": [
+      "Ctrl + X",
+      "Ctrl + V",
+      "Ctrl + C",
+      "Ctrl + A"
+    ],
+    "correctAnswerIndex": 2
+  },
+
+  {
+    "id": 9,
+    "text": "Hệ điều hành nào được sử dụng phổ biến nhất trên các máy tính cá nhân?",
+    "choices": [
+      "macOS",
+      "Linux",
+      "Windows",
+      "iOS"
+    ],
+    "correctAnswerIndex": 2
+  },
+
+  {
+    "id": 10,
+    "text": "Các thành phần chính của một bộ vi xử lý (CPU) bao gồm những gì?",
+    "choices": [
+      "RAM, ROM, Cache",
+      "Keyboard, Mouse, Speaker",
+      "Ethernet, USB, HDMI",
+      "ALU, CU, Register"
+    ],
+    "correctAnswerIndex": 3
+  }
+
+]

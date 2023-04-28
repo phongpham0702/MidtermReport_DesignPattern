@@ -1,0 +1,214 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="quizGame.Controllers.QuestionReader" Collapsed="true">
+    <Position X="14.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Controllers\QuestionReader.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="quizGame.Controllers.QuizManagement">
+    <Position X="16.75" Y="4.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>QAAIAAAAAAAAAAIAAAEAAAAUAIBAAQUAAAAAAQAACEA=</HashCode>
+      <FileName>Controllers\QuizManagement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="quizGame.Factory.QuizFactory">
+    <Position X="8.75" Y="6.25" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAEBAAAAAAAAAA=</HashCode>
+      <FileName>Factory\QuizFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="quizGame.Models.Adapter.ScoreToJsonAdapter" BaseTypeListCollapsed="true">
+    <Position X="11.5" Y="19" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Adapter\ScoreToJsonAdapter.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="quizGame.Models.Answer" Collapsed="true">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAAAAAAAAAIAAQAAAAAQCAAIAIAAAA=</HashCode>
+      <FileName>Models\Answer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="quizGame.Models.Question">
+    <Position X="9.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAABAAAAAAAAAAAAAAAAAIACCAAAAA=</HashCode>
+      <FileName>Models\Question.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="quizGame.Models.Quiz">
+    <Position X="1.25" Y="3.5" Width="4" />
+    <TypeIdentifier>
+      <HashCode>EAACAAAAAIAAAMBgAAACIAAIAAAAAAUAAAABCAAAAAA=</HashCode>
+      <FileName>Models\Quiz.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="quizGame.Models.WriteResult">
+    <Position X="14.5" Y="19" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>Models\WriteResult.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="quizGame.CountdownTimer.TimerSubject" BaseTypeListCollapsed="true">
+    <Position X="21.25" Y="0.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAACAAAAIAAAEAAAAAAIAAAABBAAAAAQAAAQA=</HashCode>
+      <FileName>Models\Observer\TimerSubject.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="quizGame.Models.QuizMode.BasicQuiz">
+    <Position X="0.5" Y="8.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABgAAAAAAAAAAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>Models\QuizMode\BasicQuiz.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="quizGame.Models.QuizMode.Decorator.FastMode">
+    <Position X="3.75" Y="11.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAQAAgCAAAAAAQBgAgEAAAAAAAAACAAAAAQACAAABAA=</HashCode>
+      <FileName>Models\QuizMode\Decorator\FastMode.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="quizGame.Models.QuizMode.Decorator.QuizDecorate">
+    <Position X="5.75" Y="8.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAiAAAAAA=</HashCode>
+      <FileName>Models\QuizMode\Decorator\QuizDecorate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="quizGame.Models.QuizMode.Decorator.TimeMode">
+    <Position X="7" Y="11.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAQBAAAAAAAAAUBgAAAAAAAAAAAAAAAAAAQACAEAAAA=</HashCode>
+      <FileName>Models\QuizMode\Decorator\TimeMode.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="quizGame.Models.scoreStrategy.basicScoreStrategy" BaseTypeListCollapsed="true">
+    <Position X="4" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAABBAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\scoreStrategy\basicScoreStrategy.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="quizGame.Models.scoreStrategy.FastModeScoreStrategy" BaseTypeListCollapsed="true">
+    <Position X="1" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAABBAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\scoreStrategy\FastModeScoreStrategy.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="quizGame.Models.scoreStrategy.TimeModeScoreStrategy" BaseTypeListCollapsed="true">
+    <Position X="11" Y="3.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAABBAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\scoreStrategy\TimeModeScoreStrategy.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="quizGame.Program" Collapsed="true">
+    <Position X="11" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="quizGame.Properties.Resources" Collapsed="true">
+    <Position X="12.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAEAAAAABEAAEAQQAAhAACAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="quizGame.Properties.Settings" Collapsed="true">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="quizGame.Views.Achieveboard">
+    <Position X="11.75" Y="6.25" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACAAAACAAgAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Views\Achieveboard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="quizGame.Views.ChooseMode">
+    <Position X="11.75" Y="9.25" Width="4.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAACAQAAAAAACAAAASAAAAAAIAAIEAAQEEACA=</HashCode>
+      <FileName>Views\ChooseMode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="quizGame.Views.ChooseQuiz" Collapsed="true">
+    <Position X="17.25" Y="10" Width="4.25" />
+    <TypeIdentifier>
+      <HashCode>BCBSAABAACAIAJuBgAKAAIACAAEAAFAAAAABQSAAAAA=</HashCode>
+      <FileName>Views\ChooseQuiz.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="quizGame.Views.FastModeForm" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAQAAAAAACAAAREACACAAAACAEB4AAABAAAGAAAAAAA=</HashCode>
+      <FileName>Views\FastModeForm.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="quizGame.Views.QuizForm">
+    <Position X="21.5" Y="4.25" Width="3" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAACAAABEACACAAAACAEB4AAABAAAGAAAAAAA=</HashCode>
+      <FileName>Views\QuizForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="quizGame.Views.TimeModeForm" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="9.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAQAAAAAACAAAREACACAAAACAEB4AAABAAAGAAAAAAA=</HashCode>
+      <FileName>Views\TimeModeForm.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Interface Name="quizGame.Models.Adapter.IJsonAdapter">
+    <Position X="8.25" Y="17" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Adapter\IJsonAdapter.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="quizGame.CountdownTimer.IObserver">
+    <Position X="17" Y="2.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Observer\IObserver.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="quizGame.Models.ObserverInterface.ISubject">
+    <Position X="18" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIAAAAAAAAAAIAAAABAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Observer\ISubject.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="quizGame.Models.scoreStrategy.IscoreStrategy">
+    <Position X="9.5" Y="13.75" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\scoreStrategy\IscoreStrategy.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,1 @@
+Các bước chạy app: quizGame -> bin -> Debug -> quizGame (file Application)

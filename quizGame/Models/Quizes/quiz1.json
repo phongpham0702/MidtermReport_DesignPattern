@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "text": "Món ăn truyền thống nào của Việt Nam được xếp hạng trong danh sách 50 món ăn ngon nhất thế giới của CNN?",
+    "choices": [
+      "Bún chả",
+      "Phở",
+      "Bánh mì",
+      "Bánh xèo"
+    ],
+    "correctAnswerIndex": 1
+  },
+
+  {
+    "id": 2,
+    "text": "Đặc sản nổi tiếng của Thái Lan là gì?",
+    "choices": [
+      "Sushi",
+      "Pad Thai",
+      "Kim chi",
+      "Gà tần"
+    ],
+    "correctAnswerIndex": 1
+  },
+
+  {
+    "id": 3,
+    "text": "Loại bánh Trung thu nào là loại bánh phổ biến nhất ở Việt Nam?",
+    "choices": [
+      "Bánh nướng",
+      "Bánh dẻo",
+      "Bánh kem",
+      "Bánh chưng"
+    ],
+    "correctAnswerIndex": 1
+  },
+
+  {
+    "id": 4,
+    "text": "Món ăn truyền thống nào của Nhật Bản được làm từ gạo và có hình dạng tròn?",
+    "choices": [
+      "Ramen",
+      "Udon",
+      "Soba",
+      "Mochi"
+    ],
+    "correctAnswerIndex": 3
+  },
+
+  {
+    "id": 5,
+    "text": "Món ăn truyền thống của Hàn Quốc là gì?",
+    "choices": [
+      "Bánh mì",
+      "Phở",
+      "Kim chi",
+      "Sushi"
+    ],
+    "correctAnswerIndex": 2
+  },
+
+  {
+    "id": 6,
+    "text": "Món ăn truyền thống nào của Trung Quốc được làm từ tôm, cua, cải bó xôi, trứng và bột mì?",
+    "choices": [
+      "Dim sum",
+      "Hủ tiếu",
+      "Bánh bao",
+      "Hải sản xào"
+    ],
+    "correctAnswerIndex": 3
+  },
+
+  {
+    "id": 7,
+    "text": "Món ăn nổi tiếng của Ý được làm từ cơm và thịt gà?",
+    "choices": [
+      "Pizza",
+      "Spaghetti",
+      "Ravioli",
+      "Risotto"
+    ],
+    "correctAnswerIndex": 3
+  },
+
+  {
+    "id": 8,
+    "text": "Món ăn truyền thống nào của Ấn Độ được làm từ thịt cừu, cơm và nhiều gia vị?",
+    "choices": [
+      "Naan",
+      "Tandoori",
+      "Biryani",
+      "Samosa"
+    ],
+    "correctAnswerIndex": 2
+  },
+
+  {
+    "id": 9,
+    "text": "Món ăn truyền thống nào của Mexico được làm từ bánh mì ngô và có nhiều loại nhân?",
+    "choices": [
+      "Taco",
+      "Enchiladas",
+      "Quesadillas",
+      "Burrito"
+    ],
+    "correctAnswerIndex": 1
+  },
+
+  {
+    "id": 10,
+    "text": "Món ăn nhanh phổ biến nhất trên thế giới là gì?",
+    "choices": [
+      "Pizza",
+      "Hot dog",
+      "Fish and chips",
+      "Burger"
+    ],
+    "correctAnswerIndex": 3
+  }
+
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "text": "Tên gọi chung của các loài khủng long là gì?",
+    "choices": [
+      "T-Rex",
+      "Sauropoda",
+      "Triceratops",
+      "Dinosauria"
+    ],
+    "correctAnswerIndex": 3
+  },
+
+  {
+    "id": 2,
+    "text": "Loài khủng long nào có chiều dài lớn nhất?",
+    "choices": [
+      "T-Rex",
+      "Sauropoda",
+      "Triceratops",
+      "Velociraptor"
+    ],
+    "correctAnswerIndex": 1
+  },
+
+  {
+    "id": 3,
+    "text": "Loài khủng long nào có cổ dài nhất?",
+    "choices": [
+      "Brachiosaurus",
+      "T-Rex",
+      "Stegosaurus",
+      "Ankylosaurus"
+    ],
+    "correctAnswerIndex": 0
+  },
+
+  {
+    "id": 4,
+    "text": "Khủng long có chân dài và thị lực tốt được coi là nhà vô địch chạy nhanh trong thế giới khủng long là loài gì?",
+    "choices": [
+      "T-Rex",
+      "Velociraptor",
+      "Stegosaurus",
+      "Ankylosaurus"
+    ],
+    "correctAnswerIndex": 1
+  },
+
+  {
+    "id": 5,
+    "text": "Tên của loài khủng long có thể bay được?",
+    "choices": [
+      "Stegosaurus",
+      "Triceratops",
+      "Pterodactyl",
+      "Ankylosaurus"
+    ],
+    "correctAnswerIndex": 2
+  },
+
+  {
+    "id": 6,
+    "text": "Loài khủng long nào được biết đến với bộ óc lớn nhất trong số các loài khủng long?",
+    "choices": [
+      "T-Rex",
+      "Velociraptor",
+      "Stegosaurus",
+      "Troodon"
+    ],
+    "correctAnswerIndex": 3
+  },
+
+  {
+    "id": 7,
+    "text": "Loài khủng long nào được coi là kẻ săn mồi thông minh và tinh vi?",
+    "choices": [
+      "T-Rex",
+      "Velociraptor",
+      "Stegosaurus",
+      "Ankylosaurus"
+    ],
+    "correctAnswerIndex": 1
+  },
+
+  {
+    "id": 8,
+    "text": "Tên của khủng long có chiều dài răng lớn nhất từng được tìm thấy là gì?",
+    "choices": [
+      "Tyrannosaurus Rex",
+      "Spinosaurus",
+      "Carcharodontosaurus",
+      "Giganotosaurus"
+    ],
+    "correctAnswerIndex": 0
+  },
+
+  {
+    "id": 9,
+    "text": "Loại khủng long nào được coi là động vật lớn nhất từng sống trên trái đất?",
+    "choices": [
+      "Stegosaurus",
+      "Tyrannosaurus Rex",
+      "Brachiosaurus",
+      "Triceratops"
+    ],
+    "correctAnswerIndex": 2
+  },
+
+  {
+    "id": 10,
+    "text": "Tên của khủng long biểu tượng trong bộ phim Jurassic Park là gì?",
+    "choices": [
+      "Velociraptor",
+      "Stegosaurus",
+      "Triceratops",
+      "Tyrannosaurus Rex"
+    ],
+    "correctAnswerIndex": 3
+  }
+
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "text": "Thương hiệu thời trang nào được đánh giá là nổi tiếng nhất thế giới?",
+    "choices": [
+      "Gucci",
+      "Zara",
+      "H&M",
+      "Chanel"
+    ],
+    "correctAnswerIndex": 3
+  },
+
+  {
+    "id": 2,
+    "text": "Năm nào đánh dấu sự ra đời của chiếc áo khoác jean?",
+    "choices": [
+      "1960",
+      "1980",
+      "1990",
+      "2000"
+    ],
+    "correctAnswerIndex": 0
+  },
+
+  {
+    "id": 3,
+    "text": "Chất liệu nào thường được sử dụng để làm giày cao gót?",
+    "choices": [
+      "Da",
+      "Vải",
+      "Nhựa",
+      "Gỗ"
+    ],
+    "correctAnswerIndex": 0
+  },
+
+  {
+    "id": 4,
+    "text": "Loại chân váy nào phù hợp với vóc dáng người cao?",
+    "choices": [
+      "Chân váy maxi",
+      "Chân váy ngắn",
+      "Chân váy xòe",
+      "Chân váy ôm"
+    ],
+    "correctAnswerIndex": 0
+  },
+
+  {
+    "id": 5,
+    "text": "Trang phục truyền thống của người Scotland là gì?",
+    "choices": [
+      "Áo khoác trench",
+      "Áo len cổ tròn",
+      "Kilt",
+      "Áo sơ mi trắng"
+    ],
+    "correctAnswerIndex": 2
+  },
+
+  {
+    "id": 6,
+    "text": "Ai là người sáng lập thương hiệu thời trang Nike?",
+    "choices": [
+      "Michael Jordan",
+      "Phil Knight",
+      "Ralph Lauren",
+      "Tom Ford"
+    ],
+    "correctAnswerIndex": 1
+  },
+
+  {
+    "id": 7,
+    "text": "Túi xách được làm từ chất liệu nào phổ biến nhất?",
+    "choices": [
+      "Da",
+      "Vải",
+      "Nhựa",
+      "Gỗ"
+    ],
+    "correctAnswerIndex": 0
+  },
+
+  {
+    "id": 8,
+    "text": "Màu sắc nào là màu thịnh hành nhất trong thời trang năm 2023?",
+    "choices": [
+      "Đen",
+      "Trắng",
+      "Xanh lá cây",
+      "Đỏ"
+    ],
+    "correctAnswerIndex": 0
+  },
+
+  {
+    "id": 9,
+    "text": "Loại giày nào phù hợp với việc đi bộ đường dài?",
+    "choices": [
+      "Giày búp bê",
+      "Giày cao gót",
+      "Giày thể thao",
+      "Giày lười"
+    ],
+    "correctAnswerIndex": 2
+  },
+
+  {
+    "id": 10,
+    "text": "Loại quần nào phù hợp cho người có vòng eo lớn?",
+    "choices": [
+      "Quần tây",
+      "Quần legging",
+      "Quần jeans",
+      "Quần ống rộng"
+    ],
+    "correctAnswerIndex": 3
+  }
+
+]

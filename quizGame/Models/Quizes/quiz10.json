@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "text": "H2 + O2 sẽ ra gì?",
+    "choices": [
+      "H2O2",
+      "HOHO",
+      "H2O",
+      "HHOO"
+    ],
+    "correctAnswerIndex": 2
+  },
+
+  {
+    "id": 2,
+    "text": "Nguyên tố hóa học nào là nguyên tố có màu sắc vàng kim?",
+    "choices": [
+      "Sắt",
+      "Đồng",
+      "Vàng",
+      "Bạc"
+    ],
+    "correctAnswerIndex": 2
+  },
+
+  {
+    "id": 3,
+    "text": "Phản ứng hóa học nào xảy ra khi sục khí Cl2 vào dung dịch NaOH?",
+    "choices": [
+      "Oxi hóa khử",
+      "Khử",
+      "Thủy phân",
+      "Trung hòa"
+    ],
+    "correctAnswerIndex": 0
+  },
+
+  {
+    "id": 4,
+    "text": "Tên gọi chung của các hợp chất có cấu trúc giống nhau nhưng khác nhau về tính chất hóa học được gọi là gì?",
+    "choices": [
+      "Polime",
+      "Monome",
+      "Amino axit",
+      "Izome"
+    ],
+    "correctAnswerIndex": 3
+  },
+
+  {
+    "id": 5,
+    "text": "Các phản ứng hóa học xảy ra trong cơ thể đều được gọi là phản ứng hóa học nào?",
+    "choices": [
+      "Phản ứng trao đổi",
+      "Phản ứng trùng hợp",
+      "Phản ứng oxi hóa khử",
+      "Phản ứng thủy phân"
+    ],
+    "correctAnswerIndex": 0
+  },
+
+  {
+    "id": 6,
+    "text": "Nguyên tố hóa học nào được sử dụng để làm chất cứu thương?",
+    "choices": [
+      "Natri",
+      "Kali",
+      "Kẽm",
+      "Sắt"
+    ],
+    "correctAnswerIndex": 1
+  },
+
+  {
+    "id": 7,
+    "text": "Loại phản ứng hóa học nào xảy ra khi một chất hóa học bị tách ra thành hai hay nhiều sản phẩm khác nhau?",
+    "choices": [
+      "Phản ứng trao đổi",
+      "Phản ứng trùng hợp",
+      "Phản ứng thế",
+      "Phản ứng phân hủy"
+    ],
+    "correctAnswerIndex": 3
+  },
+
+  {
+    "id": 8,
+    "text": "Nguyên tố nào được dùng để tạo ra các pin năng lượng mặt trời?",
+    "choices": [
+      "Silic",
+      "Niken",
+      "Vàng",
+      "Titan"
+    ],
+    "correctAnswerIndex": 0
+  },
+
+  {
+    "id": 9,
+    "text": "Nguyên tố hóa học có ký hiệu là O đại diện cho tên gọi nào?",
+    "choices": [
+      "Oxít",
+      "Oxy",
+      "Ozon",
+      "Oxit"
+    ],
+    "correctAnswerIndex": 1
+  },
+
+  {
+    "id": 10,
+    "text": "Phản ứng hóa học giữa kim loại và oxy gọi là gì?",
+    "choices": [
+      "Phản ứng trao đổi",
+      "Phản ứng trùng hợp",
+      "Phản ứng oxi hóa khử",
+      "Phản ứng thế"
+    ],
+    "correctAnswerIndex": 2
+  }
+
+]

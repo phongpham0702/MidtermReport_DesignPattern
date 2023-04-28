@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "text": "Ngày Halloween được tổ chức vào ngày nào?",
+    "choices": [
+      "30/10",
+      "31/10",
+      "01/11",
+      "02/11"
+    ],
+    "correctAnswerIndex": 1
+  },
+
+  {
+    "id": 2,
+    "text": "Halloween được kết nối chặt chẽ với hình ảnh con gì?",
+    "choices": [
+      "Heo đất",
+      "Chó sói",
+      "Cú",
+      "Bò tót"
+    ],
+    "correctAnswerIndex": 1
+  },
+
+  {
+    "id": 3,
+    "text": "Người ta thường tặng nhau loại kẹo nào trong ngày Halloween?",
+    "choices": [
+      "Kẹo dẻo",
+      "Kẹo socola",
+      "Kẹo cao su",
+      "Kẹo bơ"
+    ],
+    "correctAnswerIndex": 0
+  },
+
+  {
+    "id": 4,
+    "text": "Hình ảnh của con quỷ Jack-O'-Lantern được chế tác từ loại rau nào?",
+    "choices": [
+      "Bí ngô",
+      "Cà chua",
+      "Hành tây",
+      "Cà rốt"
+    ],
+    "correctAnswerIndex": 0
+  },
+
+  {
+    "id": 5,
+    "text": "Câu hát nổi tiếng 'Trick or treat, trick or treat, give me something good to eat' xuất hiện trong bài hát nào?",
+    "choices": [
+      "Monster Mash",
+      "The Addams Family Theme",
+      "The Munsters Theme",
+      "Ghostbusters Theme"
+    ],
+    "correctAnswerIndex": 0
+  },
+
+  {
+    "id": 6,
+    "text": "Tại Mỹ, trang phục Halloween phổ biến nhất là gì?",
+    "choices": [
+      "Ma quỷ",
+      "Phù thủy",
+      "Quái vật",
+      "Người ngoài hành tinh"
+    ],
+    "correctAnswerIndex": 2
+  },
+
+  {
+    "id": 7,
+    "text": "Câu chuyện kinh dị nổi tiếng 'The Legend of Sleepy Hollow' của tác giả Washington Irving xoay quanh nhân vật nào?",
+    "choices": [
+      "Dracula",
+      "Frankenstein",
+      "Werewolf",
+      "Ichabod Crane"
+    ],
+    "correctAnswerIndex": 3
+  },
+
+  {
+    "id": 8,
+    "text": "Truyền thuyết nổi tiếng của Scotland xoay quanh con quỷ nào?",
+    "choices": [
+      "Kraken",
+      "Loch Ness Monster",
+      "Sasquatch",
+      "Yeti"
+    ],
+    "correctAnswerIndex": 1
+  },
+
+  {
+    "id": 9,
+    "text": "Trong trang trí Halloween, hình ảnh quả bí ngô được sử dụng như một biểu tượng của điều gì?",
+    "choices": [
+      "Quái vật",
+      "Ma quỷ",
+      "Phù thủy",
+      "Người ngoài hành tinh"
+    ],
+    "correctAnswerIndex": 1
+  },
+
+  {
+    "id": 10,
+    "text": "Halloween xuất hiện lần đầu tiên tại quốc gia nào?",
+    "choices": [
+      "Mỹ",
+      "Anh",
+      "Ireland",
+      "Pháp"
+    ],
+    "correctAnswerIndex": 2
+  }
+
+]

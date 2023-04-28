@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "text": "Loại tàu vũ trụ nào được sử dụng để đưa con người lên không gian?",
+    "choices": [
+      "Vệ tinh",
+      "Phi thuyền",
+      "Tàu vũ trụ",
+      "Rô-bốt"
+    ],
+    "correctAnswerIndex": 2
+  },
+
+  {
+    "id": 2,
+    "text": "Tên của ngôi sao gần nhất với trái đất là gì?",
+    "choices": [
+      "Aldebaran",
+      "Proxima Centauri",
+      "Betelgeuse",
+      "Sirius"
+    ],
+    "correctAnswerIndex": 1
+  },
+
+  {
+    "id": 3,
+    "text": "Tên của hành tinh nào trong hệ mặt trời được coi là hành tinh nóng nhất?",
+    "choices": [
+      "Venus",
+      "Mars",
+      "Jupiter",
+      "Saturn"
+    ],
+    "correctAnswerIndex": 0
+  },
+
+  {
+    "id": 4,
+    "text": "Phạm vi của vũ trụ được ước tính đến khoảng bao nhiêu năm ánh sáng?",
+    "choices": [
+      "100 năm ánh sáng",
+      "1.000 năm ánh sáng",
+      "10.000 năm ánh sáng",
+      "100.000 năm ánh sáng"
+    ],
+    "correctAnswerIndex": 3
+  },
+
+  {
+    "id": 5,
+    "text": "Tên của thiên thể nào trong hệ mặt trời được coi là hành tinh đá lớn nhất?",
+    "choices": [
+      "Mars",
+      "Jupiter",
+      "Pluto",
+      "Saturn"
+    ],
+    "correctAnswerIndex": 2
+  },
+
+  {
+    "id": 6,
+    "text": "Tên của ngôi sao lớn nhất được biết đến trong vũ trụ là gì?",
+    "choices": [
+      "UY Scuti",
+      "Betelgeuse",
+      "VY Canis Majoris",
+      "Antares"
+    ],
+    "correctAnswerIndex": 0
+  },
+
+  {
+    "id": 7,
+    "text": "Tên của ngôi sao lớn nhất trong dãy chân mây (Milky Way) là gì?",
+    "choices": [
+      "Sagittarius A*",
+      "Alpha Centauri",
+      "Sirius",
+      "Arcturus"
+    ],
+    "correctAnswerIndex": 0
+  },
+
+  {
+    "id": 8,
+    "text": "Tên của kỷ nguyên đánh dấu bắt đầu của vũ trụ là gì?",
+    "choices": [
+      "Kỷ Nguyên Sinh Thành",
+      "Kỷ Nguyên Nhiệt Độ Cao",
+      "Kỷ Nguyên Tối Đen",
+      "Kỷ Nguyên Cổ Đại"
+    ],
+    "correctAnswerIndex": 1
+  },
+
+  {
+    "id": 9,
+    "text": "Có bao nhiêu hành tinh trong hệ mặt trời?",
+    "choices": [
+      "8",
+      "9",
+      "10",
+      "11"
+    ],
+    "correctAnswerIndex": 0
+  },
+
+  {
+    "id": 10,
+    "text": "Sự kiện nào được cho là đã tạo ra vũ trụ?",
+    "choices": [
+      "Khoảng thời gian kết thúc của Thế kỷ Tăm",
+      "Đại bang nổ (Big Bang)",
+      "Ngày Trái Đất ngừng quay",
+      "Ngày mà Mặt Trăng va chạm với Trái Đất"
+    ],
+    "correctAnswerIndex": 1
+  }
+
+]

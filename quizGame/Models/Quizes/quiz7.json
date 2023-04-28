@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "text": "Có bao nhiêu loại ngôn ngữ lập trình hiện nay?",
+    "choices": [
+      "10",
+      "50",
+      "100",
+      "200"
+    ],
+    "correctAnswerIndex": 2
+  },
+
+  {
+    "id": 2,
+    "text": "Ngôn ngữ lập trình nào được sử dụng nhiều nhất trên thế giới?",
+    "choices": [
+      "Python",
+      "Java",
+      "C++",
+      "JavaScript"
+    ],
+    "correctAnswerIndex": 1
+  },
+
+  {
+    "id": 3,
+    "text": "Từ khoá 'break' trong vòng lặp được sử dụng để làm gì?",
+    "choices": [
+      "Kết thúc vòng lặp",
+      "Chuyển đến vòng lặp tiếp theo",
+      "Hiển thị thông báo",
+      "Thay đổi giá trị biến"
+    ],
+    "correctAnswerIndex": 0
+  },
+
+  {
+    "id": 4,
+    "text": "Trong lập trình hướng đối tượng, từ khoá 'this' được sử dụng để tham chiếu tới đối tượng nào?",
+    "choices": [
+      "Đối tượng cha",
+      "Đối tượng con",
+      "Đối tượng hiện tại",
+      "Đối tượng bất kỳ"
+    ],
+    "correctAnswerIndex": 2
+  },
+
+  {
+    "id": 5,
+    "text": "Lệnh 'git clone' được sử dụng để làm gì?",
+    "choices": [
+      "Tải xuống thư mục từ máy chủ",
+      "Tạo một nhánh mới",
+      "Đẩy các thay đổi lên máy chủ",
+      "Xóa một nhánh"
+    ],
+    "correctAnswerIndex": 0
+  },
+
+  {
+    "id": 6,
+    "text": "Ngôn ngữ lập trình nào được sử dụng phổ biến nhất cho việc phát triển ứng dụng di động?",
+    "choices": [
+      "Java",
+      "Python",
+      "Swift",
+      "JavaScript"
+    ],
+    "correctAnswerIndex": 2
+  },
+
+  {
+    "id": 7,
+    "text": "Trong lập trình, khái niệm 'debugging' có ý nghĩa gì?",
+    "choices": [
+      "Chuyển mã nguồn sang mã máy",
+      "Tìm lỗi và sửa lỗi",
+      "Chạy thử nghiệm ứng dụng",
+      "Viết mã nguồn mới"
+    ],
+    "correctAnswerIndex": 1
+  },
+
+  {
+    "id": 8,
+    "text": "Trong lập trình hướng đối tượng, khái niệm 'đa hình' (polymorphism) có ý nghĩa gì?",
+    "choices": [
+      "Khả năng kế thừa dữ liệu từ một lớp cha",
+      "Khả năng định nghĩa nhiều phương thức với cùng tên",
+      "Khả năng sử dụng lại mã nguồn từ một module khác",
+      "Khả năng truyền tham số giữa các hàm"
+    ],
+    "correctAnswerIndex": 1
+  },
+
+  {
+    "id": 9,
+    "text": "Phần mềm nào được sử dụng để quản lý mã nguồn và phiên bản trong dự án phát triển phần mềm?",
+    "choices": [
+      "GitHub",
+      "Microsoft Office",
+      "Adobe Photoshop",
+      "Slack"
+    ],
+    "correctAnswerIndex": 0
+  },
+
+  {
+    "id": 10,
+    "text": "Ngôn ngữ lập trình nào được sử dụng để phát triển ứng dụng web động?",
+    "choices": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "PHP"
+    ],
+    "correctAnswerIndex": 2
+  }
+
+]

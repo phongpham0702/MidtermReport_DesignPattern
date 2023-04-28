@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "text": "Trò chơi nào được coi là game offline có kích thước lớn nhất thế giới?",
+    "choices": [
+      "Grand Theft Auto V",
+      "Assassin's Creed Odyssey",
+      "The Witcher 3: Wild Hunt",
+      "Red Dead Redemption 2"
+    ],
+    "correctAnswerIndex": 3
+  },
+
+  {
+    "id": 2,
+    "text": "Trong trò chơi Liên Minh Huyền Thoại, nhân vật nào dưới đây là một trong những vị tướng đầu tiên được ra mắt?",
+    "choices": [
+      "Yasuo",
+      "Zed",
+      "Ryze",
+      "Lee sin"
+    ],
+    "correctAnswerIndex": 2
+  },
+
+  {
+    "id": 3,
+    "text": "Trò chơi nào được xếp hạng là game mobile có doanh thu cao nhất thế giới?",
+    "choices": [
+      "Candy Crush Saga",
+      "Pokémon Go",
+      "Clash of Clans",
+      "PUBG Mobile"
+    ],
+    "correctAnswerIndex": 0
+  },
+
+  {
+    "id": 4,
+    "text": "Trò chơi nào là sản phẩm đầu tay của hãng CD Projekt Red?",
+    "choices": [
+      "The Witcher",
+      "Cyberpunk 2077",
+      "Gwent: The Witcher Card Game",
+      "Thronebreaker: The Witcher Tales"
+    ],
+    "correctAnswerIndex": 0
+  },
+
+  {
+    "id": 5,
+    "text": "Trong trò chơi Resident Evil, tên đầy đủ của nhân vật chính là gì?",
+    "choices": [
+      "Jill Valentine",
+      "Leon S. Kennedy",
+      "Chris Redfield",
+      "Claire Redfield"
+    ],
+    "correctAnswerIndex": 1
+  },
+
+  {
+    "id": 6,
+    "text": "Trò chơi nào được phát hành đầu tiên, đánh dấu sự ra đời của thương hiệu đình đám Mario?",
+    "choices": [
+      "Super Mario Bros.",
+      "Mario Bros.",
+      "Donkey Kong",
+      "Pac-Man"
+    ],
+    "correctAnswerIndex": 1
+  },
+
+  {
+    "id": 7,
+    "text": "Trò chơi nào được xếp hạng là game thể thao đá bóng thành công nhất thế giới?",
+    "choices": [
+      "FIFA",
+      "Pro Evolution Soccer",
+      "Football Manager",
+      "Rocket League"
+    ],
+    "correctAnswerIndex": 0
+  },
+
+  {
+    "id": 8,
+    "text": "Trong trò chơi Minecraft, tên của nhân vật chính là gì?",
+    "choices": [
+      "Steve",
+      "Alex",
+      "Herobrine",
+      "Notch"
+    ],
+    "correctAnswerIndex": 0
+  },
+
+  {
+    "id": 9,
+    "text": "Trò chơi nào được xem là tựa game đánh theo lượt thành công nhất thế giới?",
+    "choices": [
+      "Final Fantasy VII",
+      "Pokémon",
+      "Civilization VI",
+      "XCOM: Enemy Unknown"
+    ],
+    "correctAnswerIndex": 1
+  },
+
+  {
+    "id": 10,
+    "text": "Trò chơi Counter-Strike được phát triển bởi công ty nào?",
+    "choices": [
+      "Activision",
+      "Blizzard Entertainment",
+      "Valve Corporation",
+      "Electronic Arts"
+    ],
+    "correctAnswerIndex": 2
+  }
+
+]
