@@ -119,7 +119,7 @@
             this.Controls.Add(this.panel1);
             this.MinimumSize = new System.Drawing.Size(1600, 800);
             this.Name = "Achieveboard";
-            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.StartPosition = System.Windows.Forms.FormStartPosition.Manual;
             this.Text = "Achieveboard";
             this.panel1.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
